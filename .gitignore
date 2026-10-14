@@ -44,3 +44,6 @@ crashlytics-build.properties
 # Downloaded DEM tiles (re-downloaded by rn_fetch_terrain)
 /TerrainCache/
 
+/AgentTools/_trace.txt
+/AgentTools/_trace.txt
+/AgentTools/_probe.txt
